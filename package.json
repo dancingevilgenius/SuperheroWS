@@ -1,0 +1,23 @@
+{
+  "name": "superherows",
+  "version": "1.0.0",
+  "description": "Superhero REST web service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dancingevilgenius/SuperheroWS.git"
+  },
+  "keywords": [
+    "superhero",
+    "REST"
+  ],
+  "author": "Carlos Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dancingevilgenius/SuperheroWS/issues"
+  },
+  "homepage": "https://github.com/dancingevilgenius/SuperheroWS#readme"
+}

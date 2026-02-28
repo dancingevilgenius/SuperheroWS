@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: superhero
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/superhero_db
+    username: admin
+    password: DefyantYorkie2030?
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    database: POSTGRESQL
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
